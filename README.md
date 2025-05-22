@@ -78,7 +78,7 @@ notes, or exercises within the respective daily folders (if available). Feel fre
 code, run it, and modify it to deepen your understanding.
 
 | Day           | Topic Description                                                                 | 
-|---------------|-----------------------------------------------------------------------------------|          |
+|---------------|-----------------------------------------------------------------------------------|  
 | Day 1         | [Java Programming Elements](https://github.com/Harshnie/Week1-Core-Programming/tree/day1)                   |
 | Day 2         | [Control Flow (Conditional Statements and Loops)](https://github.com/Harshnie/Week1-Core-Programming/tree/day2)    |
 | Day 3         | [Arrays)](https://github.com/Harshnie/Week1-Core-Programming/tree/day3) |
