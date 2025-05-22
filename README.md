@@ -78,15 +78,14 @@ notes, or exercises within the respective daily folders (if available). Feel fre
 code, run it, and modify it to deepen your understanding.
 
 | Day           | Topic Description                                                                 | 
-|---------------|-----------------------------------------------------------------------------------|
-| Practice      | [Assisted + Self Problems](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice)          |
-| Day 1         | [Introduction to Java](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1)                   |
-| Day 2         | [Variables, Data Types, and Operators](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2)    |
-| Day 3         | [Control Flow (Conditional Statements and Loops)](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
-| Day 4         | [Arrays](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4)                                  |
-| Day 5         | [Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5)                                 |
-| Day 6 - Part 1| [Functions (Methods)](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions)   |
-| Day 6 - Part 2| [Strings Continued](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings)               |
+|---------------|-----------------------------------------------------------------------------------|          |
+| Day 1         | [Java Programming Elements](https://github.com/Harshnie/Week1-Core-Programming/tree/day1)                   |
+| Day 2         | [Control Flow (Conditional Statements and Loops)](https://github.com/Harshnie/Week1-Core-Programming/tree/day2)    |
+| Day 3         | [Arrays)](https://github.com/Harshnie/Week1-Core-Programming/tree/day3) |
+| Day 4         | [Java Methods](https://github.com/Harshnie/Week1-Core-Programming/tree/day4)                                  |
+| Day 5         | [Strings](https://github.com/Harshnie/Week1-Core-Programming/tree/day5)                                 |
+| Day 6         | [Functions ](https://github.com/Harshnie/Week1-Core-Programming/tree/day6)   |
+               
 
 
 ## ⏭️ Next Steps
