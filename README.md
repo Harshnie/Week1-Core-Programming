@@ -84,7 +84,7 @@ code, run it, and modify it to deepen your understanding.
 | Day 3         | [Arrays)](https://github.com/Harshnie/Week1-Core-Programming/tree/day3) |
 | Day 4         | [Java Methods](https://github.com/Harshnie/Week1-Core-Programming/tree/day4)                                  |
 | Day 5         | [Strings](https://github.com/Harshnie/Week1-Core-Programming/tree/day5)                                 |
-| Day 6         | [Functions ](https://github.com/Harshnie/Week1-Core-Programming/tree/day6)   |
+| Day 6         | [Functions](https://github.com/Harshnie/Week1-Core-Programming/tree/day6)   |
                
 
 
